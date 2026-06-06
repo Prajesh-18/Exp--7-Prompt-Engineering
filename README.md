@@ -58,5 +58,8 @@ Document differences and improvements.
 
 Output:
 
+[prompt expt 7(prajg) (1).docx](https://github.com/user-attachments/files/28660809/prompt.expt.7.prajg.1.docx)
+
+
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
